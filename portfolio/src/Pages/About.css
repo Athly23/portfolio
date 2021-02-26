@@ -3,14 +3,18 @@
   flex-direction: column;
   justify-content: space-between;
   margin: 50px 400px;
-  font-family: "Source Serif Pro", serif;
-  font-family: "Tajawal", sans-serif;
+  /* font-family: "Source Serif Pro", serif;
+  font-family: "Tajawal", sans-serif; */
+  /* font-family: "DotGothic16", sans-serif; */
+  font-family: "Balsamiq Sans", cursive;
 }
 
 .about-bio p {
   margin: 25px 0;
-  font-family: "Source Serif Pro", serif;
-  font-family: "Tajawal", sans-serif;
+  /* font-family: "Source Serif Pro", serif;
+  font-family: "Tajawal", sans-serif; */
+  /* font-family: "DotGothic16", sans-serif; */
+  font-family: "Balsamiq Sans", cursive;
 }
 
 .skills {

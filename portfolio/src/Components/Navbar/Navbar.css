@@ -10,7 +10,8 @@
   align-items: center;
   font-size: 1.2rem;
   flex-direction: row;
-  font-family: "Source Serif Pro", serif;
+  /* font-family: "DotGothic16", sans-serif; */
+  font-family: "Balsamiq Sans", cursive;
 }
 
 .NavbarItems > ul > li {

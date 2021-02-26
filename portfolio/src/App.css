@@ -6,7 +6,7 @@
 
 .App {
   background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/confectionary.png);
-  height: 100vh;
+  height: auto;
 }
 
 @media only screen and (max-width: 400px) {
