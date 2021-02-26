@@ -26,9 +26,7 @@ class Home extends Component {
         <div className="bio">
           <p>
             My name is Andrew Ly, I'm a software engineer based in Maryland with
-            a passion for innovative web design and collaborating with others. I
-            have included a small easter egg on my site, I hope you enjoy
-            finding it!
+            a passion for innovative web design and collaborating with others.
           </p>
         </div>
       </>
