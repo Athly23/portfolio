@@ -1,0 +1,19 @@
+.about-bio {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 50px 400px;
+  font-family: "Source Serif Pro", serif;
+  font-family: "Tajawal", sans-serif;
+}
+
+.about-bio p {
+  margin: 25px 0;
+  font-family: "Source Serif Pro", serif;
+  font-family: "Tajawal", sans-serif;
+}
+
+.skills {
+  display: flex;
+  justify-content: center;
+}
