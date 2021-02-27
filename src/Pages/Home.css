@@ -1,0 +1,51 @@
+/* .pic {
+  height: 50%;
+  width: auto;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+} */
+
+.img-container {
+  height: 100%;
+  width: auto;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.pic img {
+  border-radius: 50%;
+  height: 300px;
+  margin: 50px;
+}
+
+.bio {
+  /* height: 50%; */
+  /* width: 50%; */
+  display: flex;
+  justify-content: center;
+  margin: 25px 500px;
+  padding-bottom: 300px;
+  /* padding-top: 200px; */
+  /* font-family: "DotGothic16", sans-serif; */
+  font-family: "Balsamiq Sans", cursive;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  /* margin: 0 100px; */
+  /* font-family: "DotGothic16", sans-serif; */
+  font-family: "Balsamiq Sans", cursive;
+}
+
+.meta-open {
+  margin-top: 60px;
+  margin-right: 60px;
+}
+
+.meta-close {
+  margin-top: 60px;
+  margin-left: 60px;
+}

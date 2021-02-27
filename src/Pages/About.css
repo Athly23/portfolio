@@ -1,0 +1,44 @@
+.about-bio {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 50px 300px;
+  /* font-family: "Source Serif Pro", serif;
+  font-family: "Tajawal", sans-serif; */
+  /* font-family: "DotGothic16", sans-serif; */
+  font-family: "Balsamiq Sans", cursive;
+}
+
+.about-bio p {
+  margin: 25px 0;
+  /* font-family: "Source Serif Pro", serif;
+  font-family: "Tajawal", sans-serif; */
+  /* font-family: "DotGothic16", sans-serif; */
+  font-family: "Balsamiq Sans", cursive;
+}
+
+.skills {
+  display: flex;
+  justify-content: center;
+  font-family: "Balsamiq Sans", cursive;
+  font-size: larger;
+}
+
+.container {
+  height: 100vh;
+}
+
+.container h1 {
+  font-family: "Parisienne", cursive;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.programming {
+  display: flex;
+  justify-content: center;
+  font-family: "Balsamiq Sans", cursive;
+  font-size: larger;
+}

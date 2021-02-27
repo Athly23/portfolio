@@ -1,0 +1,6 @@
+.project-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 75px 75px;
+}
